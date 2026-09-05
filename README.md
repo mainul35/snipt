@@ -9,7 +9,7 @@ A lightweight snip-and-annotate tool for this KDE neon / Plasma 6 **Wayland** se
 Requires Plasma 6 on Wayland and PyQt6:
 
     sudo apt install python3-pyqt6
-    git clone <this repo> snipt && cd snipt
+    git clone git@github.com:mainul35/snipt.git && cd snipt
     ./install.sh
 
 `install.sh` points a launcher at wherever you cloned it, installs the desktop
