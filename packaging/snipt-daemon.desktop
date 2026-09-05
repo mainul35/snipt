@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Snipt (tray)
+Comment=Keeps Snipt resident so snips stay on the clipboard and capture is fast
+Exec=snipt --daemon
+Icon=applets-screenshooter
+Terminal=false
+X-GNOME-Autostart-enabled=true
+NoDisplay=true

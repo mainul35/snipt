@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Snipt
+GenericName=Screenshot & Annotate
+Comment=Snip a region, mark it up, it is already on your clipboard
+Exec=snipt region
+Icon=applets-screenshooter
+Terminal=false
+Categories=Graphics;Utility;
+Keywords=screenshot;snip;capture;annotate;
+StartupNotify=false
+X-KDE-StartupNotify=false
+X-KDE-Shortcuts=Meta+Shift+S
